@@ -1,4 +1,4 @@
-# gRPC Complete
+# gRPC Complete Project
 
 This is a simple gRPC project that demonstrates unary,client-server,bidirectional communication between a server and a client using Go programming language,
 while attempting a simple implementation of containerization and creating a pod/deployment.
